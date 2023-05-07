@@ -13,9 +13,13 @@
 ![Spiral](https://github.com/RomanPravdiuk/Agile-Scrum-Kanban-Scrumban/blob/main/Spiral.png)
 
 Agile (Гнучка) розробка - узагальнювальний термін для методологій, заснованих на цінностях і принципах Agile Manifesto:
+
 1.Люди та взаємодія важливіші за процеси та інструменти.
+
 2.Працюючий продукт важливіший за вичерпну документацію.
+
 3.Співробітництво із замовниками важливіше за погодження умов контракту.
+
 4.Готовність до змін важливіша за дотримання початкового плану.
 
 ![Agile](https://github.com/RomanPravdiuk/Agile-Scrum-Kanban-Scrumban/blob/main/Agile.png)
